@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rakeback",
-  "symbol": "rake",
-  "description": "A The most memeable memecoins on Solana",
+  "name": "Rakeback Balance",
+  "symbol": "BACK",
+  "description": "A Breathing fire into decentralized finances",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://pepefrog.io",
+  "external_url": "https://defidragon.io",
   "attributes": [],
   "properties": {
     "files": [
