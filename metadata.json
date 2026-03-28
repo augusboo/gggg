@@ -1,0 +1,17 @@
+{
+  "name": "Deposit Bonus",
+  "symbol": "RAKE",
+  "description": "A geyline friend of the Solana ecosystems",
+  "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
+  "external_url": "https://soldcat.io",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "currency"
+  }
+}
