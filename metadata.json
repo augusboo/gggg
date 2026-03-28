@@ -1,9 +1,9 @@
 {
-  "name": "Rebated Balance",
-  "symbol": "CASH",
-  "description": "A Algorithmic stablecoin pegged to USDs",
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "A Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://stableusd.finance",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
