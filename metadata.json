@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rebate",
-  "symbol": "rakeback",
-  "description": "A Much wow, very Solana, such speeds",
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "A Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://soldoge.com",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
