@@ -1,9 +1,9 @@
 {
-  "name": "Balance Rebate",
-  "symbol": "PERK",
-  "description": "A NFT-backed tokens",
+  "name": "Pre-Bonus",
+  "symbol": "prebo",
+  "description": "A Yield aggregator token for Solana protocols",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://pixelpunk.art",
+  "external_url": "https://solanayield.finance",
   "attributes": [],
   "properties": {
     "files": [
