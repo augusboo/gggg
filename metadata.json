@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rebate",
-  "symbol": "rakeback",
-  "description": "A Much wow, very Solana, such speeds",
+  "name": "Rakeback Deposit",
+  "symbol": "BACK",
+  "description": "A Taking Solana to the moon and beyonds",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://soldoge.com",
+  "external_url": "https://moonrocket.sol",
   "attributes": [],
   "properties": {
     "files": [
