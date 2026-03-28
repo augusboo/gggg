@@ -1,9 +1,9 @@
 {
-  "name": "Rakeback Deposit",
-  "symbol": "BACK",
-  "description": "A Taking Solana to the moon and beyonds",
+  "name": "Rebated Balance",
+  "symbol": "CASH",
+  "description": "A Algorithmic stablecoin pegged to USDs",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://moonrocket.sol",
+  "external_url": "https://stableusd.finance",
   "attributes": [],
   "properties": {
     "files": [
