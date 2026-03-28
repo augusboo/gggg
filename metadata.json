@@ -1,9 +1,9 @@
 {
-  "name": "Bonus Deposit",
-  "symbol": "RAKE",
-  "description": "A Feline friend of the Solana ecosystems",
+  "name": "Deposit Bonus",
+  "symbol": "rake",
+  "description": "A The community coins of Solana",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://solcat.io",
+  "external_url": "https://bonkcoin.com",
   "attributes": [],
   "properties": {
     "files": [
