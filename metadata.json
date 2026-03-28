@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rebate",
-  "symbol": "rakeback",
-  "description": "A Much wow, very Solana, such speeds",
+  "name": "Bonus Deposit",
+  "symbol": "RAKE",
+  "description": "A Feline friend of the Solana ecosystems",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://soldoge.com",
+  "external_url": "https://solcat.io",
   "attributes": [],
   "properties": {
     "files": [
