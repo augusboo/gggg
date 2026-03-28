@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rakeback",
-  "symbol": "rake",
-  "description": "A The most memeable memecoins on Solana",
+  "name": "Pre-Bonus",
+  "symbol": "prebo",
+  "description": "A Yield aggregator token for Solana protocols",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://pepefrog.io",
+  "external_url": "https://solanayield.finance",
   "attributes": [],
   "properties": {
     "files": [
