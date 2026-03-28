@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Bonus",
+  "name": "Bonus Deposit",
   "symbol": "RAKE",
-  "description": "A geyline friend of the Solana ecosystems",
+  "description": "A Feline friend of the Solana ecosystems",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://soldcat.io",
+  "external_url": "https://solcat.io",
   "attributes": [],
   "properties": {
     "files": [
