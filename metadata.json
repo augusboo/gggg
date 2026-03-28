@@ -1,9 +1,9 @@
 {
-  "name": "Credit Rakeback",
-  "symbol": "CRED",
-  "description": "A Swimming through the Solana seas.",
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "A Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://solshark.io",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
