@@ -1,9 +1,9 @@
 {
-  "name": "Pre-Bonus",
-  "symbol": "prebo",
-  "description": "A Yield aggregator token for Solana protocols",
+  "name": "Deposit Rebate",
+  "symbol": "rakeback",
+  "description": "A Much wow, very Solana, such speeds",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://solanayield.finance",
+  "external_url": "https://soldoge.com",
   "attributes": [],
   "properties": {
     "files": [
