@@ -1,9 +1,9 @@
 {
-  "name": "Rakeback Deposit",
-  "symbol": "BACK",
-  "description": "A Taking Solana to the moon and beyonds",
+  "name": "Credit Rakeback",
+  "symbol": "CRED",
+  "description": "A Swimming through the Solana seas.",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://moonrocket.sol",
+  "external_url": "https://solshark.io",
   "attributes": [],
   "properties": {
     "files": [
