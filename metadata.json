@@ -1,9 +1,9 @@
 {
-  "name": "Deposit Rebate",
-  "symbol": "rakeback",
-  "description": "A Much wow, very Solana, such speeds",
+  "name": "Balance Rebate",
+  "symbol": "PERK",
+  "description": "A NFT-backed tokens",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://soldoge.com",
+  "external_url": "https://pixelpunk.art",
   "attributes": [],
   "properties": {
     "files": [
