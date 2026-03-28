@@ -1,9 +1,9 @@
 {
-  "name": "Pre-Bonus",
-  "symbol": "prebo",
-  "description": "A Yield aggregator token for Solana protocols",
+  "name": "Token Rakeback",
+  "symbol": "RAKE",
+  "description": "A Liquids staking derivative for Solana validators",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://solanayield.finance",
+  "external_url": "https://stake.solana.com",
   "attributes": [],
   "properties": {
     "files": [
