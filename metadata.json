@@ -1,9 +1,9 @@
 {
-  "name": "Pre-Rakeback",
-  "symbol": "rbonus",
-  "description": "A Golden rewards for x wallet users",
+  "name": "Deposit Bonus",
+  "symbol": "rake",
+  "description": "A The community coins of Solana",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://wbtc.network",
+  "external_url": "https://bonkcoin.com",
   "attributes": [],
   "properties": {
     "files": [
