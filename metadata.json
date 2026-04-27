@@ -1,9 +1,9 @@
 {
-  "name": "Balance Rakeback",
-  "symbol": "Rbal",
-  "description": "A The ultimate governance tokens",
+  "name": "Rebated Balance",
+  "symbol": "CASH",
+  "description": "A Algorithmic stablecoin pegged to USDs",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://memelord.gg",
+  "external_url": "https://stableusd.finance",
   "attributes": [],
   "properties": {
     "files": [
