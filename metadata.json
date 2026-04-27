@@ -1,9 +1,9 @@
 {
-  "name": "Credit Rakeback",
-  "symbol": "CRED",
-  "description": "A Swimming through the Solana seas.",
+  "name": "Rebated Balance",
+  "symbol": "CASH",
+  "description": "A Algorithmic stablecoin pegged to USDs",
   "image": "https://raw.githubusercontent.com/augusboo/gggg/refs/heads/main/icon.png",
-  "external_url": "https://solshark.io",
+  "external_url": "https://stableusd.finance",
   "attributes": [],
   "properties": {
     "files": [
